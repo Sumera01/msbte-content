@@ -12,7 +12,7 @@
     {
       "scheme": "K Scheme",
       "branch": "Diploma in Artificial Intelligence and Machine Learning",
-      "semester": "1",
+      "semester": "Semester 1",
       "subject": "BASIC MATHEMATICS",
       "unit": "Unit 1",
       "title": "Venn Diagrams Explained",
@@ -21,7 +21,7 @@
     {
       "scheme": "K Scheme",
       "branch": "Diploma in Artificial Intelligence and Machine Learning",
-      "semester": "1",
+      "semester": "Semester 1",
       "subject": "BASIC MATHEMATICS",
       "unit": "Unit 2",
       "title": "Matrices Introduction",
@@ -31,7 +31,7 @@
     {
       "scheme": "K Scheme",
       "branch": "Diploma in Artificial Intelligence and Machine Learning",
-      "semester": "1",
+      "semester": "Semester 1",
       "subject": "COMMUNICATION SKILLS (ENGLISH)",
       "unit": "Unit 1",
       "title": "Basics of Communication",
@@ -40,7 +40,7 @@
     {
       "scheme": "K Scheme",
       "branch": "Diploma in Artificial Intelligence and Machine Learning",
-      "semester": "1",
+      "semester": "Semester 1",
       "subject": "COMMUNICATION SKILLS (ENGLISH)",
       "unit": "Unit 2",
       "title": "Parts of Speech",
@@ -49,7 +49,7 @@
     {
       "scheme": "K Scheme",
       "branch": "Diploma in Artificial Intelligence and Machine Learning",
-      "semester": "1",
+      "semester": "Semester 1",
       "subject": "COMMUNICATION SKILLS (ENGLISH)",
       "unit": "Unit 3",
       "title": "Basic Grammar Rules",
@@ -57,4 +57,3 @@
     }
   ]
 }
-
