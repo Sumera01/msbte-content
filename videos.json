@@ -3,7 +3,7 @@
     {
       "scheme": "K Scheme",
       "branch": "Diploma in Artificial Intelligence and Machine Learning",
-      "semester": "1",
+      "semester": "Semester 1",
       "subject": "BASIC MATHEMATICS",
       "unit": "Unit 1",
       "title": "Sets and Types of Sets",
@@ -12,7 +12,7 @@
     {
       "scheme": "K Scheme",
       "branch": "Diploma in Artificial Intelligence and Machine Learning",
-      "semester": "1",
+      "semester": "Semester 1",
       "subject": "BASIC MATHEMATICS",
       "unit": "Unit 1",
       "title": "Venn Diagrams Explained",
@@ -21,11 +21,20 @@
     {
       "scheme": "K Scheme",
       "branch": "Diploma in Artificial Intelligence and Machine Learning",
-      "semester": "1",
+      "semester": "Semester 1",
       "subject": "BASIC MATHEMATICS",
       "unit": "Unit 2",
       "title": "Matrices Introduction",
       "youtubeId": "vN6h9Y5pKXk"
+    },
+    {
+      "scheme": "K Scheme",
+      "branch": "Diploma in Artificial Intelligence and Machine Learning",
+      "semester": "Semester 1",
+      "subject": "BASIC MATHEMATICS",
+      "unit": "Unit 2",
+      "title": "Determinants Basics",
+      "youtubeId": "K9cG4x1L9A8"
     },
     {
       "scheme": "K Scheme",
